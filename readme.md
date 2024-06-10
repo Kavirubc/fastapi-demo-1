@@ -8,7 +8,7 @@ To run this application, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Kavirubc/fastapi-demo-1`
 2. Navigate to the project directory: `cd fastapi-demo`
-3. Install the dependencies.
+3. Install the dependencies: `pip install -r requirements.txt`
 4. Run the application: `uvicorn main:app --reload`
 
 ## Usage
