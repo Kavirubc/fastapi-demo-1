@@ -5,3 +5,6 @@ app = FastAPI()
 
 #Creating an endpoint
 
+@app.get("/")
+def index():
+    return {"Name": "First Data"}
